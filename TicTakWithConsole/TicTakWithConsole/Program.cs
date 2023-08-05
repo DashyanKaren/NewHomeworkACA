@@ -96,8 +96,10 @@ namespace TicTakWithConsole
             {
                 Console.WriteLine(  "please choose a cell to input (Row, Column) ");
                 Console.WriteLine(  "Please remember that board starts with (0,0) Index ");
-                int row=Convert.ToInt32(Console.ReadLine());
-                int col=Convert.ToInt32(Console.ReadLine());
+                Int32.TryParse(Console.ReadLine(), out int result);
+                Int32.TryParse(Console.ReadLine(), out int resultCol);
+                int row = result;
+                int col=resultCol;
                 FillCell(row, col);
                 PrintBoard();
                 Check();
