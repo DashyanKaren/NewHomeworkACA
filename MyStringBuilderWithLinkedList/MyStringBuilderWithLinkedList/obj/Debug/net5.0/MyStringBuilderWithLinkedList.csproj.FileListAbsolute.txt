@@ -1,0 +1,16 @@
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\bin\Debug\net5.0\MyStringBuilderWithLinkedList.exe
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\bin\Debug\net5.0\MyStringBuilderWithLinkedList.deps.json
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\bin\Debug\net5.0\MyStringBuilderWithLinkedList.runtimeconfig.json
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\bin\Debug\net5.0\MyStringBuilderWithLinkedList.runtimeconfig.dev.json
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\bin\Debug\net5.0\MyStringBuilderWithLinkedList.dll
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\bin\Debug\net5.0\MyStringBuilderWithLinkedList.pdb
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.AssemblyInfoInputs.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.AssemblyInfo.cs
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.dll
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\refint\MyStringBuilderWithLinkedList.dll
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.pdb
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\MyStringBuilderWithLinkedList.genruntimeconfig.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyStringBuilderWithLinkedList\MyStringBuilderWithLinkedList\obj\Debug\net5.0\ref\MyStringBuilderWithLinkedList.dll

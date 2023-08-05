@@ -1,0 +1,15 @@
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\bin\Debug\net6.0\FirstInACA.exe
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\bin\Debug\net6.0\FirstInACA.deps.json
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\bin\Debug\net6.0\FirstInACA.runtimeconfig.json
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\bin\Debug\net6.0\FirstInACA.dll
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\bin\Debug\net6.0\FirstInACA.pdb
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.AssemblyInfoInputs.cache
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.AssemblyInfo.cs
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.dll
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\refint\FirstInACA.dll
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.pdb
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\FirstInACA.genruntimeconfig.cache
+C:\Users\arsen\source\repos\FirstInACA\FirstInACA\obj\Debug\net6.0\ref\FirstInACA.dll

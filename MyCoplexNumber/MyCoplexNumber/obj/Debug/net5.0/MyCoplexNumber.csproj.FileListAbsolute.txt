@@ -1,0 +1,16 @@
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\bin\Debug\net5.0\MyCoplexNumber.exe
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\bin\Debug\net5.0\MyCoplexNumber.deps.json
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\bin\Debug\net5.0\MyCoplexNumber.runtimeconfig.json
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\bin\Debug\net5.0\MyCoplexNumber.runtimeconfig.dev.json
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\bin\Debug\net5.0\MyCoplexNumber.dll
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\bin\Debug\net5.0\MyCoplexNumber.pdb
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.AssemblyInfoInputs.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.AssemblyInfo.cs
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.dll
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\refint\MyCoplexNumber.dll
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.pdb
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\MyCoplexNumber.genruntimeconfig.cache
+C:\Users\arsen\source\repos\HomeworkACALocal\HomeworkACA\MyCoplexNumber\MyCoplexNumber\obj\Debug\net5.0\ref\MyCoplexNumber.dll

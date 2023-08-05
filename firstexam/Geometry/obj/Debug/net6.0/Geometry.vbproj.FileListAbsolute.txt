@@ -1,0 +1,12 @@
+C:\Users\arsen\source\repos\firstexam\Geometry\bin\Debug\net6.0\Geometry.deps.json
+C:\Users\arsen\source\repos\firstexam\Geometry\bin\Debug\net6.0\Geometry.dll
+C:\Users\arsen\source\repos\firstexam\Geometry\bin\Debug\net6.0\Geometry.pdb
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.vbproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfoInputs.cache
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfo.vb
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.vbproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.dll
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\refint\Geometry.dll
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\Geometry.pdb
+C:\Users\arsen\source\repos\firstexam\Geometry\obj\Debug\net6.0\ref\Geometry.dll

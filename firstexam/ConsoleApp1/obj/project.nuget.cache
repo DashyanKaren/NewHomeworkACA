@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuJVIqHeDZI0sehuluPdmhtZDC4YJMznNPLQ3bzUo/ofWmjwSsLyxOO8dilhTEXQnbyd5JEEUuUh3sTXoETf4A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\arsen\\source\\repos\\firstexam\\ConsoleApp1\\ConsoleApp1.vbproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Geometry is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Geometry supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Geometry",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
