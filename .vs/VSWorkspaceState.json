@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TicTakWithConsole",
+    "\\TicTakWithConsole\\TicTakWithConsole"
   ],
+  "SelectedNode": "\\TicTakWithConsole\\TicTakWithConsole\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
