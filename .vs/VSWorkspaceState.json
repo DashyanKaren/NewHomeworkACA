@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AverageWithNull",
-    "\\TicTakWithConsole\\TicTakWithConsole"
+    "\\MyStringBuilderWithLinkedList",
+    "\\SortingAlgorythms"
   ],
-  "SelectedNode": "\\AverageWithNull\\Program.cs",
+  "SelectedNode": "\\SortingAlgorythms\\Bubble.cs",
   "PreviewInSolutionExplorer": false
 }
