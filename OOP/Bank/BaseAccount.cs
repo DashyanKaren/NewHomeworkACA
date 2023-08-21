@@ -9,6 +9,7 @@ namespace OOP.Bank
 {
     internal class BaseAccount
     {
+       
         public string AccountNumber { get; }
         public double Balance { get; private set; }
         public Currency Currency { get; }
@@ -55,10 +56,10 @@ namespace OOP.Bank
 
     public enum Currency : byte
     {
-        AMD,
-        EUR,
-        USD,
-        Crypto
+        AMD=1,
+        EUR=2,
+        USD=3,
+        Crypto=4
     }
 
 }

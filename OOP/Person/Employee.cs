@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP.Person
 {
+    
     internal class Employee : Person
     {
         public int WorkExperience { get; set; }

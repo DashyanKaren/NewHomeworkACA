@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\FirstInACA\\ClassLibrary1",
+    "\\FirstInACA\\ClassLibrary2",
+    "\\OOP",
+    "\\OOP\\Bank",
+    "\\OOP\\Person",
     "\\People"
   ],
-  "SelectedNode": "\\People",
+  "SelectedNode": "\\OOP",
   "PreviewInSolutionExplorer": false
 }
