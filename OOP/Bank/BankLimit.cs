@@ -17,7 +17,7 @@ namespace OOP.Bank
 
             if ((DateTime.Now - lastWithdrawTime).TotalDays > 1)
             {
-                resetLimit();
+                ResetLimit();
             }
             if ((DateTime.Now - lastWithdrawTime).TotalDays <= 1 && currentWithdrawalInDay + amount < withdrawalLimitPerDay)
             {
@@ -28,7 +28,7 @@ namespace OOP.Bank
             else { return false; }
         }
 
-        private void resetLimit()
+        private void ResetLimit()
         {
             currentWithdrawalInDay = 0;
             lastWithdrawTime = DateTime.Now;
